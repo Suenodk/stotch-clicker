@@ -21,6 +21,7 @@
     "vite": "^4.1.0"
   },
   "dependencies": {
+    "autoprefixer": "^10.4.13",
     "daisyui": "^2.50.1",
     "lowdb": "^5.1.0",
     "postcss": "^8.4.21"
